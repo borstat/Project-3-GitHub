@@ -17,10 +17,10 @@ Installing GIT tool : https://git-scm.com/downloads.
    Git-KeyTerms.pdf
 
 ### Files used
-chicago.csv
-new_york_city.csv
-washington.csv
-Python Project - Script_7.py
+1. chicago.csv
+2. new_york_city.csv
+3. washington.csv
+4. Python Project - Script_7.py
 
 ### Credits
 Git documentation is very usefull https://git-scm.com/doc
