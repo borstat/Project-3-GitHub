@@ -16,6 +16,6 @@ washington.csv
 Python Project - Script_7.py
 
 ### Credits
-https://git-scm.com/doc
+Git documentation is very usefull https://git-scm.com/doc
 
 
