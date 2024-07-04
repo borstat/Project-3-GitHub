@@ -11,10 +11,10 @@ In this project, we are simulating a realistic workflow to refactor your previou
 Installing GIT tool : https://git-scm.com/downloads.
 
 ### Files used
-The following file contains necessary commands used to do tasks:
-Git Commands Documentation.pdf
-The following files helps to understand the Git key terms:
-Git-KeyTerms.pdf
+1. The following file contains necessary commands used to do tasks:
+   Git Commands Documentation.pdf
+2. The following files helps to understand the Git key terms:
+   Git-KeyTerms.pdf
 
 ### Files used
 chicago.csv
