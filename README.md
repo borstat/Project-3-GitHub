@@ -23,6 +23,6 @@ Installing GIT tool : https://git-scm.com/downloads.
 4. Python Project - Script_7.py
 
 ### Credits
-Git documentation is very usefull https://git-scm.com/doc
+Git documentation is very usefull: https://git-scm.com/doc
 
 
